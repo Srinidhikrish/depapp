@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994532856219",
+    "project_id": "depapp-92c19",
+    "storage_bucket": "depapp-92c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994532856219:android:742d20e2872a9d5252513e",
+        "android_client_info": {
+          "package_name": "com.example.depapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994532856219-ano80n0qvb1ek44p93mdgdr4i4h760gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQrPWtxIpfZ1bPx7g2ajBjY72OVPJ-W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994532856219-ano80n0qvb1ek44p93mdgdr4i4h760gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
